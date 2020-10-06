@@ -1,0 +1,9 @@
+String titleApp = "تطبيق اسولة";
+String feelingsMe = "اسولة";
+String feelingsHappy = "مبسوط";
+String feelingsSad = "حزين";
+String feelingsHungry = "جعان";
+String feelingsWater = "عطشان";
+String feelingsYes = "ماشا";
+String feelingsNO = "الدب";
+const String inputHint = "ما أسمك ؟";
